@@ -8,3 +8,17 @@ h3 {color: rgb(92, 188, 92)}
 
 body {font-family: 'Courier New', Courier, monospace;}
 body {text-align: center}
+
+.social ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+h7 {text-align: left;
+    position: absolute, -1000;
+
+margin: 0;
+}
+h7 {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+h7 {font-size: larger;}
